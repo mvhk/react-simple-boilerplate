@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <strong>Start your next react project in seconds</strong>
+    <strong>Start your next React project in seconds</strong>
     <br />
     <div>
         <!-- travis -->
